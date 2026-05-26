@@ -8,7 +8,15 @@ Currently working at **Ethara AI** on:
 - Reinforcement Learning
 - Prompt Engineering
 - AI Research
+---
 
+## 📊 GitHub Stats
+
+![Apurv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apurvkrishna23&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apurvkrishna23&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Apurvkrishna23&theme=tokyonight)
 ---
 
 ## 🛠️ Tech Stack
